@@ -1,48 +1,65 @@
-# Olá, sou o Victor Hugo 👋
+# Olá, sou Victor Hugo 👋
 
-Estudante de **Bacharelado em Ciência e Tecnologia** na UFABC, com trajetória planejada para o **Bacharelado em Ciência de Dados**. Tenho base em Python e estou construindo um portfólio focado em análise de dados e visualização.
+Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória acadêmica planejada para **Ciência de Dados**. Tenho interesse em problemas que conectam análise de dados, engenharia de software e produto.
 
----
+Busco minha primeira oportunidade de estágio em **dados, analytics ou engenharia de software**, enquanto desenvolvo projetos que consigo explicar tecnicamente — das decisões metodológicas às limitações e à evolução do código.
 
-## 🎯 Sobre mim
+## Projetos em destaque
 
-- 🎓 BC&T → Ciência de Dados · UFABC (2025–2029)
-- 🏭 Ex-aprendiz técnico · SENAI / Mercedes-Benz (2023–2025)
-- 📚 Cursando **CS50P** · Harvard University
-- 🔍 Buscando primeiro estágio em **Análise de Dados**
-- 📍 Santo André, SP · Brasil
+### [PaySim — análise de fraude com grafos](https://github.com/victorhugo-ml/paysim-fraud-network-analysis)
 
----
+Análise exploratória de uma rede de transações financeiras sintéticas. O projeto consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
 
-## 🛠️ Tecnologias e ferramentas
+`Python` · `DuckDB/SQL` · `pandas` · `NumPy` · `NetworkX` · `Matplotlib`
 
-![Python](https://img.shields.io/badge/Python-intermediário-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-notebook-F37626?style=flat&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-em_desenvolvimento-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-em_desenvolvimento-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-iniciante-F05032?style=flat&logo=git&logoColor=white)
+**Destaques:** metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas.
 
----
+### [Nós Dois — aplicação multiplataforma](https://github.com/victorhugo-ml/nois-dois-app)
 
-## 📌 O que está por vir
+Aplicação para organização compartilhada de rotina, finanças, metas, memórias e eventos. A versão pública foi sanitizada e evolui por refatorações incrementais, preservando o comportamento do produto.
 
-| Projeto | Descrição | Status |
-|---|---|---|
-| CS50P — Projeto Final | Projeto final do curso de Python da Harvard | 🔨 Em breve |
-| Análise de Redes Complexas | Análise de dados com grafos e NetworkX · UFABC | 🔨 Em breve |
-| Dashboard Power BI | Análise exploratória com dataset público | 📋 Planejado |
+`JavaScript` · `Firebase` · `Cloud Functions` · `PWA` · `Capacitor/Android` · `GitHub Actions`
 
----
+**Destaques:** autenticação e sessão desacopladas, testes com mocks, validação do bundle mobile, integração contínua e documentação de arquitetura.
 
-## 🌐 Idiomas
+## Tecnologias
 
-- 🇧🇷 Português — Nativo
-- 🇬🇧 Inglês — Avançado (B2 · Michigan Language Assessment)
-- 🇪🇸 Espanhol — Intermediário
+### Dados e análise
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📫 Contato
+### Engenharia e produto
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+
+## Formação e experiência
+
+- **UFABC** — Bacharelado em Ciência e Tecnologia, com trajetória para Ciência de Dados · 2025–2029
+- **SENAI / Mercedes-Benz** — ex-aprendiz técnico · 2023–2025
+
+## Como desenvolvo
+
+Gosto de transformar protótipos em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras, adiciono testes quando fazem sentido e uso Git e Pull Requests para evoluir o trabalho incrementalmente.
+
+Ferramentas de IA generativa apoiam atividades como prototipação, revisão e documentação. As decisões de produto e metodologia, a execução, a interpretação dos resultados e a responsabilidade pelo conteúdo permanecem minhas.
+
+## Idiomas
+
+- Português — nativo
+- Inglês — B2 (Michigan Language Assessment)
+- Espanhol — intermediário
+
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
-[![Email](https://img.shields.io/badge/Email-victorhugomirandamarcelino@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:victorhugomirandamarcelino@gmail.com)
