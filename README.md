@@ -2,7 +2,10 @@
 
 Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória acadêmica planejada para **Ciência de Dados**. Tenho interesse em problemas que conectam análise de dados, engenharia de software e produto.
 
-Busco minha primeira oportunidade de estágio em **dados, analytics ou engenharia de software**, enquanto desenvolvo projetos que consigo explicar tecnicamente — das decisões metodológicas às limitações e à evolução do código.
+Busco minha primeira oportunidade de estágio em **dados, analytics ou engenharia de software**. Transformo estudos em projetos práticos, documentando decisões, limitações e a evolução do código.
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-victorhugo--ml.github.io-1F4E79?style=flat&logo=githubpages&logoColor=white)](https://victorhugo-ml.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
 
 ## Projetos em destaque
 
@@ -33,10 +36,13 @@ Aplicação para organização compartilhada de rotina, finanças, metas, memór
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftpowerquery&logoColor=white)
 
 ### Engenharia e produto
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -54,12 +60,10 @@ Gosto de transformar protótipos em projetos que possam ser explicados e questio
 
 Ferramentas de IA generativa apoiam atividades como prototipação, revisão e documentação. As decisões de produto e metodologia, a execução, a interpretação dos resultados e a responsabilidade pelo conteúdo permanecem minhas.
 
+Atualmente, aprofundo meus estudos em **Machine Learning e Estatística**.
+
 ## Idiomas
 
 - Português — nativo
 - Inglês — B2 (Michigan Language Assessment)
 - Espanhol — intermediário
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
