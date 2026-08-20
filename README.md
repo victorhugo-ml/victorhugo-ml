@@ -13,7 +13,7 @@ Busco minha primeira oportunidade de estágio em **dados, analytics ou engenhari
 
 Análise exploratória de uma rede de transações financeiras sintéticas. O projeto consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
 
-`Python` · `DuckDB/SQL` · `pandas` · `NumPy` · `NetworkX` · `Matplotlib`
+`Python` · `DuckDB/SQL` · `Pandas` · `NumPy` · `NetworkX` · `Matplotlib`
 
 **Destaques:** metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas.
 
@@ -34,10 +34,9 @@ Aplicação para organização compartilhada de rotina, finanças, metas, memór
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
 ![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=microsoftpowerquery&logoColor=white)
 
 ### Engenharia e produto
 
