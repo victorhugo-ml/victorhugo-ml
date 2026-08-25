@@ -19,11 +19,11 @@ Análise exploratória de uma rede de transações financeiras sintéticas. O pr
 
 ### [Nós Dois — projeto pessoal com IA generativa](https://github.com/victorhugo-ml/nois-dois-app)
 
-Aplicativo que idealizei por hobby para mim e minha namorada organizarmos rotina, finanças, metas e memórias. A maior parte da implementação foi produzida por IA generativa sob minha orientação e validação.
+Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, finanças, metas, memórias e localização compartilhada por GPS. A versão privada inclui mapa ao vivo, acompanhamento em segundo plano, distância, rotas e alertas de chegada ou saída. A maior parte da implementação foi produzida por IA generativa sob minha orientação e validação.
 
 `Projeto pessoal` · `IA generativa` · `Definição de produto` · `Testes e validação`
 
-**Destaques:** definição de requisitos e fluxos, coordenação iterativa de IA, testes de comportamento e publicação de uma versão sanitizada. Não apresento o projeto como prova de domínio independente de frontend ou backend.
+**Destaques:** amplitude funcional do produto, definição de requisitos e fluxos, coordenação iterativa de IA, testes de comportamento e publicação de uma versão sanitizada. Não apresento o projeto como prova de domínio independente de frontend ou backend.
 
 ## Tecnologias
 
