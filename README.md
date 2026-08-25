@@ -1,8 +1,8 @@
 # Olá, sou Victor Hugo 👋
 
-Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória acadêmica planejada para **Ciência de Dados**. Tenho interesse em problemas que conectam análise de dados, engenharia de software e produto.
+Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória acadêmica planejada para **Ciência de Dados**. Tenho interesse em problemas que conectam análise de dados, métodos quantitativos e produto.
 
-Busco minha primeira oportunidade de estágio em **dados, analytics ou engenharia de software**. Transformo estudos em projetos práticos, documentando decisões, limitações e a evolução do código.
+Busco minha primeira oportunidade de estágio em **dados, analytics ou business intelligence**. Transformo estudos em projetos práticos, documentando decisões, métodos e limitações.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-victorhugo--ml.github.io-1F4E79?style=flat&logo=githubpages&logoColor=white)](https://victorhugo-ml.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
@@ -17,13 +17,13 @@ Análise exploratória de uma rede de transações financeiras sintéticas. O pr
 
 **Destaques:** metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas.
 
-### [Nós Dois — aplicação multiplataforma](https://github.com/victorhugo-ml/nois-dois-app)
+### [Nós Dois — projeto pessoal com IA generativa](https://github.com/victorhugo-ml/nois-dois-app)
 
-Aplicação para organização compartilhada de rotina, finanças, metas, memórias e eventos. A versão pública foi sanitizada e evolui por refatorações incrementais, preservando o comportamento do produto.
+Aplicativo que idealizei por hobby para mim e minha namorada organizarmos rotina, finanças, metas e memórias. A maior parte da implementação foi produzida por IA generativa sob minha orientação e validação.
 
-`JavaScript` · `Firebase` · `Cloud Functions` · `PWA` · `Capacitor/Android` · `GitHub Actions`
+`Projeto pessoal` · `IA generativa` · `Definição de produto` · `Testes e validação`
 
-**Destaques:** autenticação e sessão desacopladas, testes com mocks, validação do bundle mobile, integração contínua e documentação de arquitetura.
+**Destaques:** definição de requisitos e fluxos, coordenação iterativa de IA, testes de comportamento e publicação de uma versão sanitizada. Não apresento o projeto como prova de domínio independente de frontend ou backend.
 
 ## Tecnologias
 
@@ -38,31 +38,27 @@ Aplicação para organização compartilhada de rotina, finanças, metas, memór
 ![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-### Engenharia e produto
+### Métodos e ferramentas
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+`Análise exploratória` · `Amostragem estrutural` · `Grafos direcionados` · `Métricas de rede`
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
 
 ## Formação e experiência
 
 - **UFABC** — Bacharelado em Ciência e Tecnologia, com trajetória para Ciência de Dados · 2025–2029
 - **SENAI / Mercedes-Benz** — ex-aprendiz técnico · 2023–2025
 
-## Como desenvolvo
+## Como trabalho
 
-Gosto de transformar protótipos em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras, adiciono testes quando fazem sentido e uso Git e Pull Requests para evoluir o trabalho incrementalmente.
+Gosto de transformar perguntas em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras e uso Git para registrar a evolução do trabalho.
 
-Ferramentas de IA generativa apoiam atividades como prototipação, revisão e documentação. As decisões de produto e metodologia, a execução, a interpretação dos resultados e a responsabilidade pelo conteúdo permanecem minhas.
+No **Nós Dois**, ferramentas de IA generativa produziram a maior parte da implementação. Meu papel foi definir o produto, orientar iterações, testar resultados e decidir o que poderia ser publicado com segurança. Essa distinção está explícita no repositório e no estudo de caso.
 
 Atualmente, aprofundo meus estudos em **Machine Learning e Estatística**.
 
 ## Idiomas
 
 - Português — nativo
-- Inglês — B2 (Michigan Language Assessment)
+- Inglês — C1 (EF SET)
 - Espanhol — intermediário
