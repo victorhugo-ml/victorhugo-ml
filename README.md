@@ -2,7 +2,7 @@
 
 Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória acadêmica planejada para **Ciência de Dados**. Tenho interesse em problemas que conectam análise de dados, métodos quantitativos e produto.
 
-Busco minha primeira oportunidade de estágio em **dados, analytics ou business intelligence**. Transformo estudos em projetos práticos, documentando decisões, métodos e limitações.
+Busco minha primeira oportunidade de estágio em **Ciência de Dados**. Transformo estudos em projetos práticos, documentando decisões, métodos e limitações.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-victorhugo--ml.github.io-1F4E79?style=flat&logo=githubpages&logoColor=white)](https://victorhugo-ml.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
