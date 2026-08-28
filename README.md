@@ -11,11 +11,11 @@ Busco minha primeira oportunidade de estágio em **Ciência de Dados**. Transfor
 
 ### [PaySim — análise de fraude com grafos](https://github.com/victorhugo-ml/paysim-fraud-network-analysis)
 
-Análise exploratória de uma rede de transações financeiras sintéticas. O projeto consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
+Projeto exploratório de estudo em que pratico SQL, análise de dados e grafos com uma rede de transações financeiras sintéticas. O notebook consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
 
 `Python` · `DuckDB/SQL` · `Pandas` · `NumPy` · `NetworkX` · `Matplotlib`
 
-**Destaques:** metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas.
+**Destaques:** notebook comentado e organizado para leitura, metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas. Não é um modelo preditivo nem uma solução antifraude pronta.
 
 ### [Nós Dois — projeto pessoal com IA generativa](https://github.com/victorhugo-ml/nois-dois-app)
 
@@ -51,7 +51,7 @@ Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, f
 
 ## Como trabalho
 
-Gosto de transformar perguntas em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras e uso Git para registrar a evolução do trabalho.
+Ainda estou construindo minha base em Ciência de Dados. Gosto de transformar o que estudo em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras e uso Git para registrar a evolução do trabalho.
 
 No **Nós Dois**, ferramentas de IA generativa produziram a maior parte da implementação. Meu papel foi definir o produto, orientar iterações, testar resultados e decidir o que poderia ser publicado com segurança. Essa distinção está explícita no repositório e no estudo de caso.
 
