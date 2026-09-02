@@ -11,7 +11,7 @@ Busco minha primeira oportunidade de estágio em **Ciência de Dados**. Transfor
 
 ### [PaySim — análise de fraude com grafos](https://github.com/victorhugo-ml/paysim-fraud-network-analysis)
 
-Projeto exploratório de estudo em que pratico SQL, análise de dados e grafos com uma rede de transações financeiras sintéticas. O notebook consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
+Projeto acadêmico desenvolvido na disciplina **Comunicação e Redes (BCM0506-15)** da UFABC, em 2026, no qual pratico SQL, análise de dados e grafos com uma rede de transações financeiras sintéticas. O notebook consulta o dataset completo com DuckDB, constrói uma amostra estrutural de 1.000 transações e investiga centralidades, componentes, fluxo financeiro e contexto de fraude com NetworkX.
 
 `Python` · `DuckDB/SQL` · `Pandas` · `NumPy` · `NetworkX` · `Matplotlib`
 
@@ -46,8 +46,8 @@ Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, f
 
 ## Formação e experiência
 
-- **UFABC** — Bacharelado em Ciência e Tecnologia, com trajetória para Ciência de Dados · 2025–2029
-- **SENAI / Mercedes-Benz** — ex-aprendiz técnico · 2023–2025
+- **UFABC** — Bacharelado em Ciência e Tecnologia, com trajetória para Ciência de Dados · desde 2025, previsão de conclusão em 2030
+- **SENAI / Mercedes-Benz** — Curso de Aprendizagem Industrial — Mecânico de Produção Veicular (1.600 horas) e atuação como Jovem Aprendiz · 2023–2025
 
 ## Como trabalho
 
