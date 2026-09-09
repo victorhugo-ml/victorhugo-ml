@@ -5,7 +5,7 @@ Estudante de **Bacharelado em Ciência e Tecnologia na UFABC**, com trajetória 
 Busco minha primeira oportunidade de estágio em **Ciência de Dados**. Transformo estudos em projetos práticos, documentando decisões, métodos e limitações.
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-victorhugo--ml.github.io-1F4E79?style=flat&logo=githubpages&logoColor=white)](https://victorhugo-ml.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-miranda-marcelino-6b2850369/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor_Hugo-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhmarcelino)
 
 ## Projetos em destaque
 
@@ -15,7 +15,7 @@ Projeto acadêmico desenvolvido na disciplina **Comunicação e Redes (BCM0506-1
 
 `Python` · `DuckDB/SQL` · `Pandas` · `NumPy` · `NetworkX` · `Matplotlib`
 
-**Destaques:** notebook comentado e organizado para leitura, metodologia de amostragem documentada, resultados reproduzíveis e limitações explícitas. Não é um modelo preditivo nem uma solução antifraude pronta.
+**Destaques:** notebook com resultados salvos, diagnóstico da amostra, metodologia documentada e limitações explícitas. A validação automatizada verifica o arquivo, mas não reexecuta a análise completa. Não é um modelo preditivo nem uma solução antifraude pronta.
 
 ### [Nós Dois — projeto pessoal com IA generativa](https://github.com/victorhugo-ml/nois-dois-app)
 
@@ -47,13 +47,12 @@ Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, f
 ## Formação e experiência
 
 - **UFABC** — Bacharelado em Ciência e Tecnologia, com trajetória para Ciência de Dados · desde 2025, previsão de conclusão em 2030
+- **UFABC / Programa Manuel Querino** — extensão em Inteligência Artificial Aplicada à mineração de dados · setembro–dezembro de 2026, em andamento · 200 horas
 - **SENAI / Mercedes-Benz** — Curso de Aprendizagem Industrial — Mecânico de Produção Veicular (1.600 horas) e atuação como Jovem Aprendiz · 2023–2025
 
 ## Como trabalho
 
 Ainda estou construindo minha base em Ciência de Dados. Gosto de transformar o que estudo em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras e uso Git para registrar a evolução do trabalho.
-
-No **Nós Dois**, ferramentas de IA generativa produziram a maior parte da implementação. Meu papel foi definir o produto, orientar iterações, testar resultados e decidir o que poderia ser publicado com segurança. Essa distinção está explícita no repositório e no estudo de caso.
 
 Atualmente, aprofundo meus estudos em **Machine Learning e Estatística**.
 
