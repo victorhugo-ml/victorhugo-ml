@@ -1,6 +1,6 @@
 # Olá, sou Victor Hugo 👋
 
-Na minha primeira disciplina de programação, na UFABC, eu passei raspando. Mas o professor era rigoroso, me ensinou a pensar com lógica de verdade, e eu saí de lá gostando de programar. Foi puxando esse fio que cheguei em Ciência de Dados.
+Na minha primeira disciplina de lógica de programação, na UFABC, eu passei raspando. Mas o professor era rigoroso, me ensinou a pensar com lógica de verdade, e eu saí de lá gostando de programar. Foi puxando esse fio que cheguei em Ciência de Dados.
 
 Quando vi Machine Learning pela primeira vez, parecia mágica. Foi aí que me apaixonei pela matemática. Hoje estudo matemática e estatística justamente para entender como essa mágica funciona, e cada projeto aqui é um pedaço desse caminho: registro o que fiz, o que não funcionou e o que ainda estou aprendendo.
 
@@ -54,9 +54,7 @@ Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, f
 
 ## Como trabalho
 
-Ainda estou construindo minha base em Ciência de Dados. Gosto de transformar o que estudo em projetos que possam ser explicados e questionados: documento decisões, deixo limitações claras e uso Git para registrar a evolução do trabalho.
-
-Atualmente, aprofundo meus estudos em **Machine Learning e Estatística**.
+Gosto de projetos que eu consiga explicar e que outras pessoas possam questionar. No PaySim, validar a amostra mostrou que a ferramenta que eu tinha escolhido não servia para aquele dado, e isso virou parte do resultado em vez de ficar escondido. Uso Git, testes e CI para registrar como cada projeto evoluiu, inclusive os erros no caminho.
 
 ## Idiomas
 
