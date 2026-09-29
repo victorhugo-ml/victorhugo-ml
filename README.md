@@ -49,7 +49,6 @@ Aplicativo que idealizei por hobby para mim e minha namorada, reunindo agenda, f
 ## Formação e experiência
 
 - **UFABC** — Bacharelado em Ciência e Tecnologia, um bacharelado interdisciplinar com matemática, física, química, biologia, computação e humanidades; minha trajetória é para Ciência de Dados · desde 2025, previsão de conclusão em 2029
-- **UFABC / Programa Manuel Querino** — extensão em Inteligência Artificial Aplicada à mineração de dados · setembro–dezembro de 2026, em andamento · 200 horas
 - **SENAI / Mercedes-Benz** — Curso de Aprendizagem Industrial — Mecânico de Produção Veicular (1.600 horas) e atuação como Jovem Aprendiz · 2023–2025
 
 ## Como trabalho
